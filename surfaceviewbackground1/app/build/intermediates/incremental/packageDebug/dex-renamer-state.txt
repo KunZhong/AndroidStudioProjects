@@ -1,0 +1,7 @@
+#Fri Apr 21 09:47:52 CST 2017
+base.0=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8192b63b15583060e3bcd6faa7540cee0c1f94a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7065bb2b7275f3c0fa1f012d72ed452c6ec2619a/classes.dex
+base.1=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7065bb2b7275f3c0fa1f012d72ed452c6ec2619a
+file.0=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8192b63b15583060e3bcd6faa7540cee0c1f94a/classes.dex

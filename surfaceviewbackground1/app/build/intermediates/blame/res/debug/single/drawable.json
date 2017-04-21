@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_ic_clear.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+    }
+]

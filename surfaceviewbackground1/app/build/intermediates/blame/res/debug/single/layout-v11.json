@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/res/layout-v11/abc_simple_decor.xml"
+    }
+]

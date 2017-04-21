@@ -1,0 +1,13 @@
+#Fri Apr 21 09:47:52 CST 2017
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.3=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2133799a1152477490f96fe95115a6345c0ddf0b
+base.2=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_417e15286c8bec1a6c39469503bba78375a066d4
+base.1=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_198cdce77ab9f3321a8c3ce1e5442f108baa81a6
+base.0=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_1502b386e77eb79f17ca23ee3d7b7580d21be5e3
+file.3=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2133799a1152477490f96fe95115a6345c0ddf0b/classes.dex
+file.2=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_417e15286c8bec1a6c39469503bba78375a066d4/classes.dex
+file.1=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_198cdce77ab9f3321a8c3ce1e5442f108baa81a6/classes.dex
+file.0=/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_1502b386e77eb79f17ca23ee3d7b7580d21be5e3/classes.dex

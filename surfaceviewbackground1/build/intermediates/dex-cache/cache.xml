@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/user/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_1502b386e77eb79f17ca23ee3d7b7580d21be5e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8192b63b15583060e3bcd6faa7540cee0c1f94a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/b7cb95d5bc25ace13edc12ecc0f81e47c49bc179/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_417e15286c8bec1a6c39469503bba78375a066d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/c1bc425903a57c2e1b312623df3362a0651d63f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2133799a1152477490f96fe95115a6345c0ddf0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb61db26b96e056768791287b7d51c61e064b535">
+        <dex dex="/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7065bb2b7275f3c0fa1f012d72ed452c6ec2619a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/c1bc425903a57c2e1b312623df3362a0651d63f9/output/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/home/user/AndroidStudioProjects/surfaceviewbackground1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_198cdce77ab9f3321a8c3ce1e5442f108baa81a6/classes.dex" />
+    </item>
+
+</items>
