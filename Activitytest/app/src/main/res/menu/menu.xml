@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/circlePro"
+        android:title="circlePro" />
+    <item
+        android:id="@+id/HorizenPro"
+        android:title="HorizenPro" />
+    <item
+        android:id="@+id/alertDialog"
+        android:title="AlertDialog" />
+    <item
+        android:id="@+id/processDialog"
+        android:title="processDialog" />
+</menu>
